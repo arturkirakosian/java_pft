@@ -40,7 +40,12 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1SblN1or5r2fFpy7elPtDmA9ote" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
@@ -48,7 +53,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -67,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyFirstProgram1">
+  <component name="RunManager" selected="Gradle.SquareTests">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
@@ -82,10 +87,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquareTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.sandbox.SquareTests&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SquareTests" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MyFirstProgram1" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +129,9 @@
       <workItem from="1571907664371" duration="715000" />
       <workItem from="1571909613639" duration="105000" />
       <workItem from="1571915179180" duration="50000" />
-      <workItem from="1571930210954" duration="1383000" />
+      <workItem from="1571930210954" duration="12767000" />
+      <workItem from="1572010721034" duration="3523000" />
+      <workItem from="1572026482371" duration="204000" />
     </task>
     <servers />
   </component>
@@ -123,5 +150,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
