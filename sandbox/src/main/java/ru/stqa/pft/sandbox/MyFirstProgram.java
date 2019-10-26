@@ -4,10 +4,6 @@ import org.w3c.dom.ls.LSOutput;
 
 public class MyFirstProgram {
 	public static void main(String[] args) {
-		hello("world");
-		hello("user");
-		hello("Yogin");
-
 		Square s = new Square(5);
 		System.out.println("Площадь квадрата со стороной " + s.l + " = " + s.area());
 
@@ -16,7 +12,7 @@ public class MyFirstProgram {
 
   }
 
-	public static void hello(String somebody) {
+	private void hello(String somebody) {
       System.out.println("Hello, " + somebody + "!");
   }
 
