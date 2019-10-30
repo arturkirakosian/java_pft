@@ -78,13 +78,14 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.stqa.pft.sandbox" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ru.stqa.pft.addressbook" />
-      <recent name="ru.stqa.pft.sandbox" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Devel\java_pft\addressbook-web-tests" />
       <recent name="C:\Devel\java_pft\addressbook-web-tests\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.stqa.pft.addressbook.appmanager" />
+      <recent name="ru.stqa.pft.addressbook" />
+      <recent name="ru.stqa.pft.sandbox" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -99,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.GroupDeletionTests">
+  <component name="RunManager" selected="Gradle.EquationTests">
     <configuration name="EquationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -229,9 +230,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.GroupDeletionTests" />
-        <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.EquationTests" />
+        <item itemvalue="Gradle.GroupCreationTests" />
+        <item itemvalue="Gradle.GroupDeletionTests" />
         <item itemvalue="Gradle.SquareTests" />
         <item itemvalue="Gradle.Programtest" />
       </list>
@@ -261,7 +262,8 @@
       <workItem from="1572337916918" duration="3084000" />
       <workItem from="1572346582978" duration="12072000" />
       <workItem from="1572360833464" duration="3028000" />
-      <workItem from="1572423182464" duration="3099000" />
+      <workItem from="1572423182464" duration="5397000" />
+      <workItem from="1572429801932" duration="4375000" />
     </task>
     <servers />
   </component>
