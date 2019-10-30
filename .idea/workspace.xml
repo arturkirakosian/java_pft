@@ -72,7 +72,7 @@
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.43202764" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -100,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.EquationTests">
+  <component name="RunManager" selected="Gradle.GroupCreationTests">
     <configuration name="EquationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -126,7 +126,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.GroupCreationTests&quot; --stacktrace" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.tests.GroupCreationTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -230,11 +230,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.EquationTests" />
         <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.GroupDeletionTests" />
         <item itemvalue="Gradle.SquareTests" />
-        <item itemvalue="Gradle.Programtest" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,7 @@
       <workItem from="1572346582978" duration="12072000" />
       <workItem from="1572360833464" duration="3028000" />
       <workItem from="1572423182464" duration="5397000" />
-      <workItem from="1572429801932" duration="4375000" />
+      <workItem from="1572429801932" duration="6937000" />
     </task>
     <servers />
   </component>
